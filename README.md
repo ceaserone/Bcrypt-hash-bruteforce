@@ -1,17 +1,17 @@
-# Bcrypt-hash-bruteforce
+# Bcrypt-Hash-Bruteforce
 Python to decrypt bcrypt hashes!
 ----------------
 Easy to use, pretty self explanatory and it works!
 
-✓bcrypt_pwbf.py
+✓bcrypt_bruteforce.py
 
--usage: python bcrypt_decrypt.py "hash"
+-usage: python bcrypt_bruteforce.py "hash"
 (quick check, few simple passes in script.)
 
-python bcrypt_decrypt.py "hash" pwlist.txt 
+python bcrypt_bruteforce.py "hash" pwlist.txt 
 (if only one hash use "")
 
-python bcrypt_decrypt.py hashlist.txt pwlist.txt
+python bcrypt_bruteforce.py hashlist.txt pwlist.txt
 (pretty easy)
 
 -Hash must be in " " is only one hash to prevent $ f'ups in terminal obviously.
@@ -19,9 +19,9 @@ python bcrypt_decrypt.py hashlist.txt pwlist.txt
 -hash.txt hash's does not have to be " ", just when using one hash.
 
 ----------------
-✓extracthash.py
+✓extract.users.json.hash.py
 
-Usage: python extracthash.py
+Usage: python extract.users.json.hash.py
 (make sure users.json is in same dir) 
 
 -This extracts hash's feom file.json
@@ -30,4 +30,5 @@ eg: users.json, will extract all to hashs.txt
 
 ----------------
 💯💻🎉🤑✅👍😎😎⚠️💥📋🤬💀👽💯
-synacknetwork.com email me, i have so much data, databases stuff i have found, always fun stuff to go through, we can trade finds, or run the net together wrecking havoc lol, botnets are always alive to play as well lmk.
+synacknetwork.com Email me, i have so much data, databases stuff i have found, always fun stuff to go through, we can trade finds, or run the net together wrecking havoc lol, botnets are always alive to play with as well...lmk!!
+🤑😎👍😩🍦🤞💞👽💀💯💯💥🤪☠️👽💯
